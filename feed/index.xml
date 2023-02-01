@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>SPH Media Trust</description>
-	<lastBuildDate>Thu, 03 Nov 2022 04:26:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Feb 2023 08:36:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	
 	<item>
+		<title>Test from Localhost</title>
+		<link>/media-centre/test-from-localhost/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 01 Feb 2023 08:36:41 +0000</pubDate>
+				<category><![CDATA[Media Centre]]></category>
+		<category><![CDATA[Press Releases]]></category>
+		<guid isPermaLink="false">/?p=7881</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Berita Harian&#8217;s Achiever of The Year 2022 Awards Honour Exemplary Malay-Muslim Achievers</title>
 		<link>/media-centre/press-releases/berita-harians-achiever-of-the-year-2022-awards-honour-exemplary-malay-muslim-achievers/</link>
 		
@@ -141,20 +156,6 @@
 		<guid isPermaLink="false">https://msdx-uat.sph.com.sg/?p=2127</guid>
 
 					<description><![CDATA[Singapore, 10 August 2022&#160;- After a two-year hiatus, mega automotive show The Cars@Expo 2022 will return on 13 and 14 August 2022 to provide car buyers with attractive deals for brand new and pre-owned cars as well as motoring accessories. Organised by SPH Media, the two-day event will be held at Singapore Expo Hall 3B [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Showcasing Past and Present National Day Celebrations</title>
-		<link>/media-centre/press-releases/showcasing-past-and-present-national-day-celebrations/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 06 Aug 2022 04:06:00 +0000</pubDate>
-				<category><![CDATA[Press Releases]]></category>
-		<guid isPermaLink="false">https://msdx-uat.sph.com.sg/?p=2124</guid>
-
-					<description><![CDATA[To celebrate our country’s 57th birthday,&#160;SPH Media invites the public to relive special moments from the past and present National Day Parades with a specially curated photo exhibition in popular places such as shopping malls, MRT stations and supermarkets this August. The collection of 200 rare photos is part of SPH Media's vast archive of [&#8230;]]]></description>
 		
 		
 		
