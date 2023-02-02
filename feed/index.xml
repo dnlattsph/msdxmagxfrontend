@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>SPH Media Trust</description>
-	<lastBuildDate>Wed, 01 Feb 2023 08:36:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Feb 2023 01:02:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	
 	<item>
+		<title>Test Localhost &#8211; 2</title>
+		<link>/media-centre/test-localhost-2/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 02 Feb 2023 01:01:05 +0000</pubDate>
+				<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[Media Centre]]></category>
+		<guid isPermaLink="false">/?p=7883</guid>
+
+					<description><![CDATA[Another test For Localhost]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Test from Localhost</title>
 		<link>/media-centre/test-from-localhost/</link>
 		
@@ -142,20 +157,6 @@
 		<guid isPermaLink="false">https://msdx-uat.sph.com.sg/?p=2146</guid>
 
 					<description><![CDATA[To produce quality journalism, SPH Media continues to attract talents through the award of scholarships and internships for local undergraduates. This year, the following scholarships are being awarded at the Joint SPH Media and SPH Foundation Scholarship Awards Ceremony on 25 August 2022. 12 SPH Media Journalism Scholarships 14 SPH Media Scholarships for Children of [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cars@Expo 2022 returns with exclusive deals for car buyers</title>
-		<link>/media-centre/press-releases/carsexpo-2022-returns-with-exclusive-deals-for-car-buyers/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 10 Aug 2022 04:11:00 +0000</pubDate>
-				<category><![CDATA[Press Releases]]></category>
-		<guid isPermaLink="false">https://msdx-uat.sph.com.sg/?p=2127</guid>
-
-					<description><![CDATA[Singapore, 10 August 2022&#160;- After a two-year hiatus, mega automotive show The Cars@Expo 2022 will return on 13 and 14 August 2022 to provide car buyers with attractive deals for brand new and pre-owned cars as well as motoring accessories. Organised by SPH Media, the two-day event will be held at Singapore Expo Hall 3B [&#8230;]]]></description>
 		
 		
 		
